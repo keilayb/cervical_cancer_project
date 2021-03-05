@@ -23,6 +23,7 @@ requests = "*"
 shap = "*"
 missingno = "*"
 chart-studio = "*"
+imblearn = "*"
 pipfile = "*"
 
 [requires]
